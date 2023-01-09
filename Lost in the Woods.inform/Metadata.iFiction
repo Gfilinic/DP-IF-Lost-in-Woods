@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+    <story>
+        <identification>
+            <ifid>1849747E-BA88-46B3-80C6-D061A03A21E2</ifid>
+            <format>glulx</format>
+        </identification>
+        <bibliographic>
+            <title>Lost in the Woods</title>
+            <author>Goran Filinić</author>
+            <headline>Escape the Woods</headline>
+            <genre>Fiction</genre>
+            <firstpublished>2023</firstpublished>
+            <language>en</language>
+            <group>Inform</group>
+        </bibliographic>
+        <releases>
+            <attached>
+                <release>
+                    <releasedate>2023-01-09</releasedate>
+                    <version>1</version>
+                    <compiler>Inform 7</compiler>
+                    <compilerversion>Inform 10.1.2 (build )</compilerversion>
+                </release>
+            </attached>
+        </releases>
+        <colophon>
+            <generator>Inform 7</generator>
+            <generatorversion>Inform 10.1.2 (build )</generatorversion>
+            <originated>2023-01-09</originated>
+        </colophon>
+        <glulx>
+            <serial>230109</serial>
+            <release>1</release>
+            <compiler>Inform Inform 10.1.2 (build )</compiler>
+        </glulx>
+    </story>
+</ifindex>
